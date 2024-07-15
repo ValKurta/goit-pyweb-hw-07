@@ -1,2 +1,8 @@
 Faker==26.0.0
-
+SQLAlchemy==2.0.31
+asyncpg==0.29.0
+psycopg==3.2.1
+psycopg2==2.9.9
+alembic==1.13.2
+pydantic==2.8.2
+pydantic-settings==2.3.4
