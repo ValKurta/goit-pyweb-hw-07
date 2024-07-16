@@ -13,3 +13,6 @@ The scripts:
     my_select.py - the all queries as functions. they will be processed from the one script
     cli.py - the extra task. I am not sure if everything works fine
     database.py - has sync and async sessions(tried to cover more variants)
+
+CLI command example according to the DB model:
+python cli.py -a create -m Teacher --first_name 'Boris' --last_name 'Jonson'
